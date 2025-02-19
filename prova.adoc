@@ -1,5 +1,5 @@
 = duro
-:toc:
+:toc: left
 :toc-title: Indice
 
 == anelli
