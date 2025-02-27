@@ -11,3 +11,5 @@
 ==amici==
 
 Offerte
+
+[nota2](/%2F/nota2.md)
