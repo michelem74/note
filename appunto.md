@@ -13,3 +13,6 @@
 Offerte
 
 [nota2](/%2F/nota2.md)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzQ4NDMzNDY5XX0=
+-->
