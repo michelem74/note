@@ -1,8 +1,7 @@
+
 # Titolo
 
-==amici==
-
-Doro
+==anche==
 
 
 > Written with [StackEdit](https://stackedit.io/).
