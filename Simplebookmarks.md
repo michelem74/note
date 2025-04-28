@@ -3,7 +3,6 @@ title: Marked 2 and Obsidian
 created: 2025-04-28T10:04:41 (UTC +02:00)
 tags: [wiki links]
 source: https://brettterpstra.com/2024/05/16/marked-2-and-obsidian/
-author: 
 ---
 
 # Marked 2 and Obsidian - BrettTerpstra.com
