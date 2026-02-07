@@ -6,7 +6,7 @@
  ## Comment:
 In a way this one’s strength is also a weakness. ==It is compatible== with many note taking applications, but it only needs to be compatible with the one you use, which (like Joplin) may already have its own. Fortunately the Universal Web Clipper, also known simply as “Web Clipper”, works with quite a few popular note taking applications, meaning this provides you with more options. According to the README it works with these:
 
-::Due::
+==Due==
 
 ==TRECENTO==
 <!--stackedit_data:
