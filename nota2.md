@@ -1,5 +1,5 @@
 DEVONtechnologies | DEVONthink, professional document and information manager for Mac and iOS..md
----
+
 ---
 title: "DEVONtechnologies | DEVONthink, professional document and information manager for Mac and iOS."
 source: "https://www.devontechnologies.com/apps/devonthink"
