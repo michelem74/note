@@ -10,8 +10,7 @@ source: https://brettterpstra.com/2024/05/16/marked-2-and-obsidian/
 > ## Excerpt
 > I’m not going to lie, Obsidian is really cool. It’s a Markdown-based note system that has a ton of cool features, and even more with its healthy plugin community.
 
----
-    ![Obsidian and Marked 2 icons](https://cdn3.brettterpstra.com/uploads/2024/04/obsidian-marked-rb.jpg "Obsidian and Marked 2 icons")
+![Obsidian and Marked 2 icons](https://cdn3.brettterpstra.com/uploads/2024/04/obsidian-marked-rb.jpg "Obsidian and Marked 2 icons")
 
 I’m not going to lie, [Obsidian](https://obsidian.md/ "Obsidian-Sharpen your thinking") is really cool. It’s a Markdown-based note system that has a ton of cool features, and even more with its healthy plugin community.
 
