@@ -72,4 +72,4 @@ This is my first Obsidian plugin, and I’m not a regular Obsidian user (yet), s
 By the way, one handy feature of Obsidian is [Obsidian Sync](https://obsidian.md/sync), which is a paid add-on. But never fear, there’s a giveaway coming up [later this year](https://brettterpstra.com/giveaways/upcoming/) that will get you a free year. [Sign up for the newsletter](https://brettterpstra.com/subscribe/) to stay in the loop on all of the sweet giveaways I have lined up.
 [Marked 2 and Obsidian - BrettTerpstra.com](https://brettterpstra.com/2024/05/16/marked-2-and-obsidian/)
 
-[[amici]]
+[appunto](/%2F/appunto.md)
