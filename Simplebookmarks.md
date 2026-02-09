@@ -29,7 +29,7 @@ The point of this post is not to get you to use Obsidian. It’s about integrati
 
 Marked works perfectly with Obsidian. You just have to open the current note in Marked and changes show up with about a two-second delay in Marked as you edit (based on the rate that Obsidian autosaves). You can also open your entire Vault folder in Marked and it will always show you the note you’re currently editing. It’s just a bit of a pain to get these to Marked without revealing in Finder and dragging. So I made [a plugin](https://github.com/ttscoff/Marked2-obsidian "ttscoff/Marked2-obsidian").
 
-    ![marked-sidebar-2.jpg](https://cdn3.brettterpstra.com/uploads/2024/04/marked-sidebar-2.jpg "marked-sidebar-2.jpg")
+![marked-sidebar-2.jpg](https://cdn3.brettterpstra.com/uploads/2024/04/marked-sidebar-2.jpg "marked-sidebar-2.jpg")
 
 Eventually I’d like to have this plugin available in Obsidian’s Community Plugins, but the process of getting it accepted has been slow. If and when it is eventually merged, I’ll update these instructions as the process will become much easier. In the meantime, you have two options to install:
 
@@ -49,14 +49,14 @@ Copy
 
 1.  Open the `.obsidian/plugins` folder in your Vault. The easiest way to get there is to open Obsidian Preferences, navigate to Community Plugins, then click the folder icon next to Installed Plugins.
     
-        ![browse-obsidian-plugins-800.jpg](https://cdn3.brettterpstra.com/uploads/2024/05/browse-obsidian-plugins-800.jpg "browse-obsidian-plugins-800.jpg")
+![browse-obsidian-plugins-800.jpg](https://cdn3.brettterpstra.com/uploads/2024/05/browse-obsidian-plugins-800.jpg "browse-obsidian-plugins-800.jpg")
 2.  Create a folder called `Marked-obsidian` in the plugins folder.
 3.  Go to [the latest release](https://github.com/ttscoff/Marked2-obsidian/releases/latest) of the Marked 2 plugin and download the `main.js` and `manifest.json` files to the `.obsidian/plugins/Marked-obsidian` folder.
 4.  Return to Obsidian Preferences -> Community Plugins and you should now see the Marked plugin available. Enable it by clicking the slider.
 
 This gives you a sidebar button for opening the current note in Marked (which can be “Marked blue” or neutral to fit your theme), as well as two commands in the palette: “Open note in Marked” and “Open vault in Marked.”
 
-    ![obsidian-commands-800.jpg](https://cdn3.brettterpstra.com/uploads/2024/04/obsidian-commands-800.jpg "obsidian-commands-800.jpg")
+![obsidian-commands-800.jpg](https://cdn3.brettterpstra.com/uploads/2024/04/obsidian-commands-800.jpg "obsidian-commands-800.jpg")
 
 ### Handling Obsidian Syntax
 
