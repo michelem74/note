@@ -10,7 +10,7 @@
 ```
 <mark>amici</mark>
 
-[included Markdown from URL](https://raw.githubusercontent.com/paulhibbitts/markdown-file-examples/main/itworks.md ":include")
+[included Markdown from URL]([https://raw.githubusercontent.com/paulhibbitts/markdown-file-examples/main/itworks.md](https://github.com/michelem74/note/blob/master/Welcome%20file.1.md) ":include")
 
 Offerte
 
